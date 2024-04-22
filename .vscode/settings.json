@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/*.mocks.dart": true,
+    "**/*.g.dart": true,
+    "**/*.freezed.dart": true
+  }
+}
